@@ -17,12 +17,12 @@ export class RecipeListComponent implements OnInit {
     new Recipe(
       'Tacos',
       'Tortillas and fillings',
-      'https://www.spendwithpennies.com/wp-content/uploads/2019/03/Spaghetti-and-Meatballs-SpendWithPennies-4.jpg'
+      'https://www.thewholesomedish.com/wp-content/uploads/2019/06/The-Best-Classic-Tacos-550.jpg   '
     ),
     new Recipe(
       'Cake',
       'Hot butter, eggs, flour and milk',
-      'https://www.spendwithpennies.com/wp-content/uploads/2019/03/Spaghetti-and-Meatballs-SpendWithPennies-4.jpg'
+      'https://www.handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg'
     ),
   ];
 
